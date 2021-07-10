@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@deck.gl/core": "7.0.5",
+    "@deck.gl/layers": "7.0.5",
+    "@deck.gl/mesh-layers": "7.0.5",
+    "@deck.gl/react": "7.0.5",
+    "@loaders.gl/core": "1.0.3",
+    "@luma.gl/addons": "7.0.1",
+    "@luma.gl/core": "7.0.1",
+    "@nebula.gl/layers": "0.12.1",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-map-gl": "4.1.2"
+  },
+  "keywords": [],
+  "name": "gltf-nebulagl-forked",
+  "description": "This example leverages nebula.gl, another member of the vis.gl family that provides high performance, interactive editing of deck.gl layers. The result demonstrates a geospatial glTF editor example in less than a page of code",
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
